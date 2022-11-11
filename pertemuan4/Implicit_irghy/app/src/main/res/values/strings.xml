@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">implicitirghy</string>
+    <string name="open_web">OPEN WEB</string>
+    <string name="open_location">SEARCH LOCATION</string>
+    <string name="share_text">SHARE TEXT</string>
+    <string name="btn_dial">DIAL</string>
+    <string name="btn_contact">CONTACT</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="select_image">SELECT IMAGE</string>
+</resources>
